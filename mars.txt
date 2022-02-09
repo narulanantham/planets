@@ -1,5 +1,8 @@
-Cold and dry, but I like all the colors
+Hi Hi Hi
 
+<<<<<<< HEAD
+Hi Mireia! I hear you have some exciting news...
+=======
 Meow meow meow meow!
-
-OMG this is going to be a disaster when merging the files!!! 
+Do you have any cats with you today??
+>>>>>>> d3841e9a2142bb06e04701443152d69b9bcf9695
