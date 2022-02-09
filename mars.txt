@@ -1,3 +1,8 @@
 Cold and dry, but I like all the colors
 
+<<<<<<< HEAD
 Hi Mireia! I hear you have some exciting news...
+=======
+Meow meow meow meow!
+>>>>>>> e597616847b869ec8ebda1c66eaab96001179b45
+Do you have any cats with you today??
